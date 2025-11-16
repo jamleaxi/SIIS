@@ -1,0 +1,1 @@
+<img src="{{ asset('img/siis-logo.png') }}" width="300px"/>

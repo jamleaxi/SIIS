@@ -1,0 +1,1 @@
+<img src="{{ asset('img/JRMSU.png') }}" width="50px"/>
